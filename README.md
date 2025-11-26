@@ -22,8 +22,8 @@ Ejercicios prácticos sobre la arquitectura y funcionamiento básico de las neur
 * **McCullockPitts:**
     Ejercicios basados en la neurona de McCulloch-Pitts, uno de los primeros modelos matemáticos de una neurona biológica.
 * **Compuertas Lógicas (Perceptrón):**
-    * `OPERACIÓN_OR_y_NOT.ipynb`
-    * `OR_Y_NOT_.ipynb`
+    * 'OPERACIÓN OR Y NOT.ipynb
+    * 'OR Y NOT.ipynb'
     Notebooks que demuestran cómo una neurona puede aprender y resolver operaciones lógicas básicas (OR, NOT).
 
 ## lenguajes
